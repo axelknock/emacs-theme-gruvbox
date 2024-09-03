@@ -811,8 +811,8 @@ Should contain 2 %s constructs to allow for theme name and directory/prefix")
 
      ;;; tab-bar
 
-     (tab-bar-tab-inactive (:background gruvbox-bg :foreground gruvbox-light0))
-     (tab-bar-tab (:background gruvbox-dark2 :foreground gruvbox-light0))
+     (tab-bar-tab-inactive (:background gruvbox-dark2 :foreground gruvbox-light0))
+     (tab-bar-tab (:background gruvbox-bg :foreground gruvbox-light0))
      (tab-bar (:background gruvbox-bg :foreground gruvbox-light0))
 
      ;;; circe
